@@ -1,0 +1,752 @@
+{
+  "data": [
+    {
+      "geoHash": "dn5b",
+      "coordinates": [
+        -84.55078125,
+        33.837890625
+      ],
+      "avgStressIntensity": 2.7838277243685208,
+      "uniqueUsers": 9,
+      "totalCalls": 1044,
+      "totalCallTimeInSeconds": 301247
+    },
+    {
+      "geoHash": "dnh0",
+      "coordinates": [
+        -84.19921875,
+        33.837890625
+      ],
+      "avgStressIntensity": 3.0117129890623464,
+      "uniqueUsers": 8,
+      "totalCalls": 333,
+      "totalCallTimeInSeconds": 102611
+    },
+    {
+      "geoHash": "9mue",
+      "coordinates": [
+        -117.24609375,
+        32.958984375
+      ],
+      "avgStressIntensity": 2.7356210412269246,
+      "uniqueUsers": 2,
+      "totalCalls": 92,
+      "totalCallTimeInSeconds": 70801
+    },
+    {
+      "geoHash": "djgz",
+      "coordinates": [
+        -84.55078125,
+        33.662109375
+      ],
+      "avgStressIntensity": 3.450868571580141,
+      "uniqueUsers": 3,
+      "totalCalls": 65,
+      "totalCallTimeInSeconds": 36570
+    },
+    {
+      "geoHash": "dr5r",
+      "coordinates": [
+        -74.00390625,
+        40.693359375
+      ],
+      "avgStressIntensity": 2.2075410817780674,
+      "uniqueUsers": 4,
+      "totalCalls": 59,
+      "totalCallTimeInSeconds": 22435
+    },
+    {
+      "geoHash": "9qqj",
+      "coordinates": [
+        -115.13671875,
+        36.123046875
+      ],
+      "avgStressIntensity": 2.7262501467295617,
+      "uniqueUsers": 1,
+      "totalCalls": 42,
+      "totalCallTimeInSeconds": 7275
+    },
+    {
+      "geoHash": "dhxp",
+      "coordinates": [
+        -79.98046875,
+        26.630859375
+      ],
+      "avgStressIntensity": 1.544353177860529,
+      "uniqueUsers": 1,
+      "totalCalls": 22,
+      "totalCallTimeInSeconds": 5610
+    },
+    {
+      "geoHash": "9zvx",
+      "coordinates": [
+        -93.33984375,
+        44.912109375
+      ],
+      "avgStressIntensity": 1.8287670870102612,
+      "uniqueUsers": 1,
+      "totalCalls": 19,
+      "totalCallTimeInSeconds": 2894
+    },
+    {
+      "geoHash": "9muq",
+      "coordinates": [
+        -117.59765625,
+        33.486328125
+      ],
+      "avgStressIntensity": 3.4491790560645486,
+      "uniqueUsers": 1,
+      "totalCalls": 19,
+      "totalCallTimeInSeconds": 6943
+    },
+    {
+      "geoHash": "9wun",
+      "coordinates": [
+        -106.69921875,
+        39.111328125
+      ],
+      "avgStressIntensity": 3.034870177813474,
+      "uniqueUsers": 1,
+      "totalCalls": 18,
+      "totalCallTimeInSeconds": 4714
+    },
+    {
+      "geoHash": "dng1",
+      "coordinates": [
+        -85.60546875,
+        38.232421875
+      ],
+      "avgStressIntensity": 2.219737199259591,
+      "uniqueUsers": 1,
+      "totalCalls": 17,
+      "totalCallTimeInSeconds": 3683
+    },
+    {
+      "geoHash": "dn6m",
+      "coordinates": [
+        -86.66015625,
+        36.123046875
+      ],
+      "avgStressIntensity": 3.6143026050352556,
+      "uniqueUsers": 3,
+      "totalCalls": 17,
+      "totalCallTimeInSeconds": 9513
+    },
+    {
+      "geoHash": "9mud",
+      "coordinates": [
+        -117.24609375,
+        32.783203125
+      ],
+      "avgStressIntensity": 2.889776433869051,
+      "uniqueUsers": 2,
+      "totalCalls": 17,
+      "totalCallTimeInSeconds": 23272
+    },
+    {
+      "geoHash": "dpz8",
+      "coordinates": [
+        -79.27734375,
+        43.681640625
+      ],
+      "avgStressIntensity": 2.1830350012983737,
+      "uniqueUsers": 2,
+      "totalCalls": 16,
+      "totalCallTimeInSeconds": 4392
+    },
+    {
+      "geoHash": "dngb",
+      "coordinates": [
+        -84.55078125,
+        38.056640625
+      ],
+      "avgStressIntensity": 3.3535862032207593,
+      "uniqueUsers": 1,
+      "totalCalls": 16,
+      "totalCallTimeInSeconds": 2746
+    },
+    {
+      "geoHash": "dhxj",
+      "coordinates": [
+        -79.98046875,
+        26.279296875
+      ],
+      "avgStressIntensity": 2.158073574602603,
+      "uniqueUsers": 1,
+      "totalCalls": 14,
+      "totalCallTimeInSeconds": 5150
+    },
+    {
+      "geoHash": "dn5c",
+      "coordinates": [
+        -84.55078125,
+        34.013671875
+      ],
+      "avgStressIntensity": 3.714260864345882,
+      "uniqueUsers": 3,
+      "totalCalls": 11,
+      "totalCallTimeInSeconds": 3757
+    },
+    {
+      "geoHash": "9q5c",
+      "coordinates": [
+        -118.30078125,
+        34.013671875
+      ],
+      "avgStressIntensity": 2.803637893696717,
+      "uniqueUsers": 1,
+      "totalCalls": 9,
+      "totalCallTimeInSeconds": 2335
+    },
+    {
+      "geoHash": "dng8",
+      "coordinates": [
+        -84.90234375,
+        38.056640625
+      ],
+      "avgStressIntensity": 3.3677314184525313,
+      "uniqueUsers": 1,
+      "totalCalls": 8,
+      "totalCallTimeInSeconds": 2415
+    },
+    {
+      "geoHash": "dhv8",
+      "coordinates": [
+        -82.08984375,
+        26.806640625
+      ],
+      "avgStressIntensity": 2.219621516769639,
+      "uniqueUsers": 1,
+      "totalCalls": 8,
+      "totalCallTimeInSeconds": 2586
+    },
+    {
+      "geoHash": "dr7h",
+      "coordinates": [
+        -74.35546875,
+        41.572265625
+      ],
+      "avgStressIntensity": 2.876535646403283,
+      "uniqueUsers": 1,
+      "totalCalls": 7,
+      "totalCallTimeInSeconds": 6403
+    },
+    {
+      "geoHash": "dnh1",
+      "coordinates": [
+        -84.19921875,
+        34.013671875
+      ],
+      "avgStressIntensity": 3.204743118684483,
+      "uniqueUsers": 3,
+      "totalCalls": 6,
+      "totalCallTimeInSeconds": 777
+    },
+    {
+      "geoHash": "djn4",
+      "coordinates": [
+        -81.38671875,
+        28.564453125
+      ],
+      "avgStressIntensity": 3.906092029772845,
+      "uniqueUsers": 2,
+      "totalCalls": 6,
+      "totalCallTimeInSeconds": 2912
+    },
+    {
+      "geoHash": "dhxh",
+      "coordinates": [
+        -79.98046875,
+        26.103515625
+      ],
+      "avgStressIntensity": 3.993218809453971,
+      "uniqueUsers": 1,
+      "totalCalls": 5,
+      "totalCallTimeInSeconds": 2712
+    },
+    {
+      "geoHash": "dp3w",
+      "coordinates": [
+        -87.71484375,
+        41.923828125
+      ],
+      "avgStressIntensity": 3.106567451910993,
+      "uniqueUsers": 2,
+      "totalCalls": 4,
+      "totalCallTimeInSeconds": 242
+    },
+    {
+      "geoHash": "djgx",
+      "coordinates": [
+        -84.90234375,
+        33.662109375
+      ],
+      "avgStressIntensity": 3.190174474160549,
+      "uniqueUsers": 1,
+      "totalCalls": 4,
+      "totalCallTimeInSeconds": 2915
+    },
+    {
+      "geoHash": "dhxn",
+      "coordinates": [
+        -79.98046875,
+        26.455078125
+      ],
+      "avgStressIntensity": 1.9032909804576363,
+      "uniqueUsers": 1,
+      "totalCalls": 4,
+      "totalCallTimeInSeconds": 151
+    },
+    {
+      "geoHash": "9x0x",
+      "coordinates": [
+        -111.62109375,
+        40.693359375
+      ],
+      "avgStressIntensity": 2.49848438906955,
+      "uniqueUsers": 1,
+      "totalCalls": 4,
+      "totalCallTimeInSeconds": 1056
+    },
+    {
+      "geoHash": "drt2",
+      "coordinates": [
+        -71.19140625,
+        42.275390625
+      ],
+      "avgStressIntensity": 3.686058968156037,
+      "uniqueUsers": 1,
+      "totalCalls": 3,
+      "totalCallTimeInSeconds": 293
+    },
+    {
+      "geoHash": "dr72",
+      "coordinates": [
+        -74.00390625,
+        40.869140625
+      ],
+      "avgStressIntensity": 3.08879838543397,
+      "uniqueUsers": 2,
+      "totalCalls": 3,
+      "totalCallTimeInSeconds": 388
+    },
+    {
+      "geoHash": "djup",
+      "coordinates": [
+        -84.19921875,
+        33.662109375
+      ],
+      "avgStressIntensity": 4.810482765196026,
+      "uniqueUsers": 2,
+      "totalCalls": 3,
+      "totalCallTimeInSeconds": 1508
+    },
+    {
+      "geoHash": "dhwu",
+      "coordinates": [
+        -80.33203125,
+        26.103515625
+      ],
+      "avgStressIntensity": 1.4791061834908326,
+      "uniqueUsers": 1,
+      "totalCalls": 3,
+      "totalCallTimeInSeconds": 1225
+    },
+    {
+      "geoHash": "dhtv",
+      "coordinates": [
+        -81.73828125,
+        26.279296875
+      ],
+      "avgStressIntensity": 2.0676027013397276,
+      "uniqueUsers": 1,
+      "totalCalls": 3,
+      "totalCallTimeInSeconds": 2622
+    },
+    {
+      "geoHash": "9wgz",
+      "coordinates": [
+        -107.05078125,
+        39.287109375
+      ],
+      "avgStressIntensity": 3.4927200460023475,
+      "uniqueUsers": 2,
+      "totalCalls": 3,
+      "totalCallTimeInSeconds": 518
+    },
+    {
+      "geoHash": "dr70",
+      "coordinates": [
+        -74.35546875,
+        40.869140625
+      ],
+      "avgStressIntensity": 3.8793312096368795,
+      "uniqueUsers": 1,
+      "totalCalls": 2,
+      "totalCallTimeInSeconds": 82
+    },
+    {
+      "geoHash": "dpwx",
+      "coordinates": [
+        -80.68359375,
+        43.505859375
+      ],
+      "avgStressIntensity": 1.7791394793211603,
+      "uniqueUsers": 2,
+      "totalCalls": 2,
+      "totalCallTimeInSeconds": 101
+    },
+    {
+      "geoHash": "djuy",
+      "coordinates": [
+        -83.14453125,
+        33.486328125
+      ],
+      "avgStressIntensity": 2,
+      "uniqueUsers": 1,
+      "totalCalls": 2,
+      "totalCallTimeInSeconds": 798
+    },
+    {
+      "geoHash": "djqn",
+      "coordinates": [
+        -81.38671875,
+        30.673828125
+      ],
+      "avgStressIntensity": 3.079086873398515,
+      "uniqueUsers": 1,
+      "totalCalls": 2,
+      "totalCallTimeInSeconds": 2677
+    },
+    {
+      "geoHash": "dj6s",
+      "coordinates": [
+        -86.30859375,
+        30.322265625
+      ],
+      "avgStressIntensity": 2.1144335214003656,
+      "uniqueUsers": 1,
+      "totalCalls": 2,
+      "totalCallTimeInSeconds": 3679
+    },
+    {
+      "geoHash": "dhz0",
+      "coordinates": [
+        -79.98046875,
+        26.806640625
+      ],
+      "avgStressIntensity": 2.6390729209995203,
+      "uniqueUsers": 1,
+      "totalCalls": 2,
+      "totalCallTimeInSeconds": 85
+    },
+    {
+      "geoHash": "dhx4",
+      "coordinates": [
+        -79.98046875,
+        25.751953125
+      ],
+      "avgStressIntensity": 2,
+      "uniqueUsers": 1,
+      "totalCalls": 2,
+      "totalCallTimeInSeconds": 1473
+    },
+    {
+      "geoHash": "dhv2",
+      "coordinates": [
+        -82.44140625,
+        26.806640625
+      ],
+      "avgStressIntensity": 2.739790802477597,
+      "uniqueUsers": 1,
+      "totalCalls": 2,
+      "totalCallTimeInSeconds": 2567
+    },
+    {
+      "geoHash": "9xjd",
+      "coordinates": [
+        -104.58984375,
+        39.814453125
+      ],
+      "avgStressIntensity": 3.5550711145741216,
+      "uniqueUsers": 2,
+      "totalCalls": 2,
+      "totalCallTimeInSeconds": 168
+    },
+    {
+      "geoHash": "9x22",
+      "coordinates": [
+        -111.97265625,
+        40.869140625
+      ],
+      "avgStressIntensity": 3.116222612955303,
+      "uniqueUsers": 1,
+      "totalCalls": 2,
+      "totalCallTimeInSeconds": 415
+    },
+    {
+      "geoHash": "9x0r",
+      "coordinates": [
+        -111.97265625,
+        40.693359375
+      ],
+      "avgStressIntensity": 1.2299676877139956,
+      "uniqueUsers": 1,
+      "totalCalls": 2,
+      "totalCallTimeInSeconds": 858
+    },
+    {
+      "geoHash": "9q56",
+      "coordinates": [
+        -119.00390625,
+        34.189453125
+      ],
+      "avgStressIntensity": 2.8423377460451933,
+      "uniqueUsers": 1,
+      "totalCalls": 2,
+      "totalCallTimeInSeconds": 333
+    },
+    {
+      "geoHash": "drmk",
+      "coordinates": [
+        -71.19140625,
+        41.572265625
+      ],
+      "avgStressIntensity": 1,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 30
+    },
+    {
+      "geoHash": "drkg",
+      "coordinates": [
+        -71.89453125,
+        41.396484375
+      ],
+      "avgStressIntensity": 1,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 48
+    },
+    {
+      "geoHash": "dr75",
+      "coordinates": [
+        -74.35546875,
+        41.396484375
+      ],
+      "avgStressIntensity": 5,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 759
+    },
+    {
+      "geoHash": "dnru",
+      "coordinates": [
+        -78.92578125,
+        35.947265625
+      ],
+      "avgStressIntensity": 1,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 53
+    },
+    {
+      "geoHash": "dnrg",
+      "coordinates": [
+        -78.92578125,
+        35.771484375
+      ],
+      "avgStressIntensity": 4,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 388
+    },
+    {
+      "geoHash": "dnn3",
+      "coordinates": [
+        -81.03515625,
+        34.013671875
+      ],
+      "avgStressIntensity": 2,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 61
+    },
+    {
+      "geoHash": "dnh4",
+      "coordinates": [
+        -84.19921875,
+        34.189453125
+      ],
+      "avgStressIntensity": 1,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 428
+    },
+    {
+      "geoHash": "djwr",
+      "coordinates": [
+        -81.03515625,
+        32.255859375
+      ],
+      "avgStressIntensity": 2,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 116
+    },
+    {
+      "geoHash": "djv2",
+      "coordinates": [
+        -82.44140625,
+        32.431640625
+      ],
+      "avgStressIntensity": 2,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 22
+    },
+    {
+      "geoHash": "djur",
+      "coordinates": [
+        -83.84765625,
+        33.662109375
+      ],
+      "avgStressIntensity": 5,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 821
+    },
+    {
+      "geoHash": "djn6",
+      "coordinates": [
+        -81.03515625,
+        28.564453125
+      ],
+      "avgStressIntensity": 3,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 289
+    },
+    {
+      "geoHash": "djn3",
+      "coordinates": [
+        -81.03515625,
+        28.388671875
+      ],
+      "avgStressIntensity": 2,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 810
+    },
+    {
+      "geoHash": "djn1",
+      "coordinates": [
+        -81.38671875,
+        28.388671875
+      ],
+      "avgStressIntensity": 2,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 209
+    },
+    {
+      "geoHash": "djgy",
+      "coordinates": [
+        -84.55078125,
+        33.486328125
+      ],
+      "avgStressIntensity": 4,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 1549
+    },
+    {
+      "geoHash": "djgw",
+      "coordinates": [
+        -84.90234375,
+        33.486328125
+      ],
+      "avgStressIntensity": 1,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 442
+    },
+    {
+      "geoHash": "djgt",
+      "coordinates": [
+        -84.90234375,
+        33.310546875
+      ],
+      "avgStressIntensity": 5,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 1164
+    },
+    {
+      "geoHash": "dhyx",
+      "coordinates": [
+        -80.68359375,
+        28.037109375
+      ],
+      "avgStressIntensity": 1,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 1844
+    },
+    {
+      "geoHash": "9yze",
+      "coordinates": [
+        -90.52734375,
+        38.583984375
+      ],
+      "avgStressIntensity": 2,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 107
+    },
+    {
+      "geoHash": "9q9k",
+      "coordinates": [
+        -121.81640625,
+        37.353515625
+      ],
+      "avgStressIntensity": 1,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 55
+    },
+    {
+      "geoHash": "9q8z",
+      "coordinates": [
+        -122.51953125,
+        37.880859375
+      ],
+      "avgStressIntensity": 3,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 598
+    },
+    {
+      "geoHash": "9mup",
+      "coordinates": [
+        -117.94921875,
+        33.662109375
+      ],
+      "avgStressIntensity": 2,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 654
+    },
+    {
+      "geoHash": "9mun",
+      "coordinates": [
+        -117.94921875,
+        33.486328125
+      ],
+      "avgStressIntensity": 1,
+      "uniqueUsers": 1,
+      "totalCalls": 1,
+      "totalCallTimeInSeconds": 37
+    }
+  ]
+}
